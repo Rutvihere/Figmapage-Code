@@ -1,0 +1,40 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.navbar-left {
+  color: #fff;
+  margin-left: 180px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  margin-right: 150px;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+
+.navbar-link {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #000000;
+  margin: 20px;
+  
+}
+.signup-link {
+  border: 2px solid black; /* Black border */
+  border-radius: 30px; /* Oval shape */
+  padding: 5px 15px; /* Adjust padding as needed */
+}
+
+
+

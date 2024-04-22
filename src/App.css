@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.header {
+  text-align: center;
+}
+
+.work-smarter {
+  font-size: 48px; 
+}
+
+.large-font {
+  font-size: 16px;
+}
+
+.cta-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px; 
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.cta-button:hover {
+  background-color: #333;
+}
